@@ -1,4 +1,4 @@
 # first-project-demo
-this is my first git repostitory
+this is my first Git repostitory
 <br>
 author- Irfan Pathan
